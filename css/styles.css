@@ -1,48 +1,22 @@
-hr{
-    border-style:none;
-border-top-style:dotted ;
-border-width: 10px; 
-border-color:greey;
-width:30%;
-}
 body{
-    background-color: rgb(190, 220, 250);
+  margin: 0; 
+  text-align: center;
+}
+h1{
+  margin: 0 auto 0 auto;
 }
 
-p {
-    padding-top: 5px;
 
-  }
-  a:link {
-    color: green;
-    background-color: transparent;
-    text-decoration: none;
-  }
-  
-  a:visited {
-    color: blue;
-    background-color: transparent;
-    text-decoration: none;
-  }
-  
-  a:hover {
-    color: red;
-    background-color: transparent;
-    text-decoration: underline;
-  }
-  
-  a:active {
-    color: yellow;
-    background-color: transparent;
-    text-decoration: underline;
-  }
+.top_container{  background-color: #E4F9F5; 
 
+}
+.bottom-cloud{
+  position: absolute;margin: 500;
 
-  .classAA{
-    background-color: red;
-
-  }
-
-  #idhead{
-    background-color: blue;
-  }
+}
+.top-cloud{
+  position: relative;padding-top: 100px;padding-left: 200px;
+}
+.mountain{
+  padding-top: 200px;
+}

@@ -1,13 +1,20 @@
 body{
   margin: 0; 
   text-align: center;
+  background-color: #E4F9F5; 
 }
-h1{
+h1{color: #66BFBF;
   margin: 0 auto 0 auto;
+  font-size: 500%;
+  font-family: 'Sacramento', cursive;
 }
 
+p{color: #66BFBF;
 
-.top_container{  background-color: #E4F9F5; 
+
+
+}
+.top_container{ 
 
 }
 .bottom-cloud{
